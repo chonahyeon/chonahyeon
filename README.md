@@ -27,8 +27,8 @@
   
   <h2 align="center"><b>😼 Contact Me 😼</b></h2>
   <br>
-  <a href="url"><img src="https://img.shields.io/badge/Tech Blog-A555EC?style=flat-square&logo=Github&logoColor=white&link=https://chonahyeon.github.io"/></a>
-  <a href="url"><img src="https://img.shields.io/badge/Mail-D09CFA?style=flat-square&logo=Gmail&logoColor=white&link=jonahon@naver.com"/></a>&nbsp
+  <a href="https://chonahyeon.github.io"><img src="https://img.shields.io/badge/Tech Blog-A555EC?style=flat-square&logo=Github&logoColor=white&link=https://chonahyeon.github.io"/></a>
+  <a href="jonahon@naver.com"><img src="https://img.shields.io/badge/Mail-D09CFA?style=flat-square&logo=Gmail&logoColor=white&link=jonahon@naver.com"/></a>&nbsp
   
 </div>
 

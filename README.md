@@ -1,7 +1,6 @@
 <div align="center">
    
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=9000&pause=1500&color=D09CFA&width=435&lines=Hello%F0%9F%91%8B+I'm+Nahyeon+%3A)" alt="Typing SVG" /></a>
-   <br></br>
    
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchonahyeon&count_bg=%23D09CFA&title_bg=%23A555EC&icon=retroarch.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
   

@@ -23,7 +23,7 @@
 <br>
 <div align="center">
 
-  ![nahyeon's GitHub stats](https://github.com/PencilNavigator/readme-stats-URL/api?username=chonahyeon&show_icons=true&theme=material-palenight)
+  ![nahyeon's GitHub stats](https://github-readme-stats-ten-gilt.vercel.app/api?username=chonahyeon&show_icons=true&theme=material-palenight)
   
   <h2 align="center"><b>😼 Contact Me 😼</b></h2>
   <br>
